@@ -30,7 +30,7 @@ import com.lti.log.app.util.LogViewerHandler;
 @Controller
 public class IndexController {
 	//private static String FILE_TO_WATCH = "/Users/sivaraja/Desktop/DevOps/logs";
-	private static String FILE_TO_WATCH = "/home/pcurve/logs";
+	private static String FILE_TO_WATCH = "/home/test/logs";
 	/*@RequestMapping("/")
 	public String home(Map<String, Object> model) {
 		model.put("message", "HowToDoInJava Reader !!");
